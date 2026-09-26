@@ -551,7 +551,7 @@ Full phase-by-phase plan, as defined in `docs/gantt-chart.csv`. **We are current
 | Member | Primary Roles |
 |---|---|
 | **Jhon Lloyd M. Valencia** | Project Manager · Software Architect · Frontend Developer · Backend Developer · Documentation |
-| **Kyle Allen M. Abandia** | Assistant Project Manager · Software Architect · AI Agent Developer · Database Development · System Development · Frontend Developer · Backend Developer |
+| **Kyle Allen M. Abandia** | Co-Project Manager · Software Architect · AI Agent Developer · Database Development · System Development · Frontend Developer · Backend Developer |
 | **Maurenzio Franck M. Altamarino** | UI/UX Designer · Database Development · System Development · Frontend Developer |
 | **Jerome Iloilo** | UI/UX Designer · Documentation |
 
