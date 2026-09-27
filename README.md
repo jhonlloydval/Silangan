@@ -490,6 +490,9 @@ chore(deps): bump prisma to 5.x
 
 ## Project Plan / Gantt Chart
 
+<details>
+<summary>Click to expand project timeline</summary>
+
 Full phase-by-phase plan, as defined in `docs/gantt-chart.csv`. **We are currently in the Design Phase (System Design), per the plan below.**
 
 | Phase | Task | Deliverables | Start | End (Est.) | Personnel |
@@ -541,6 +544,8 @@ Full phase-by-phase plan, as defined in `docs/gantt-chart.csv`. **We are current
 | Closing | Project Closure | Project completion report, final deliverables checklist and project closure documentation | 27-Dec-26 | 27-Dec-26 | Project Manager |
 | Post-deployment | Project Portfolio Submission | Final project portfolio, source code, documentation, screenshots and project artifacts | 28-Dec-26 | 30-Dec-26 | Team |
 | Post-deployment | System Maintenance | Maintenance plan, bug fixes, monitoring procedures and future enhancement recommendations | 2-Jan-27 | 9-Jan-27 | Development Team |
+
+</details>
 
 ---
 
